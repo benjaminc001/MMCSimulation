@@ -1,2 +1,3 @@
-# MMCSimulation
-RL detection and attacks for MMC enviroments
+# Simulación de ataques FDIA y detección en MMC
+
+## Modo de uso 
